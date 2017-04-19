@@ -1,0 +1,6 @@
+<component name="CopyrightManager">
+  <copyright>
+    <option name="keyword" value="Copyright (C) $today.year, Alphabet International GmbH" />
+    <option name="myName" value="Alphabet" />
+  </copyright>
+</component>
